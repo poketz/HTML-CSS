@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-top {
+  height: 50px;
+  background-color: #52A;
+}
+
+.header-bottom {
+  height: 500px;
+  background-color: #A3D;
+}
+
+main {
+  height: 1400px;
+  display: flex;
+  justify-content: center;
+}
+
+.main-side {
+  width: 230px;
+  background-color: #202;
+}
+
+.main-center {
+  width: 500px;
+  background-color: #999;
+}
+
+footer {
+  height: 100px;
+  background-color: #CFF
+}
